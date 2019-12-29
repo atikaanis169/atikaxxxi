@@ -1,8 +1,7 @@
-# SearchFlix - React.Js
+# atika'sxxxi - React.Js
 
-🎥 A movie searcher using React.js and the OMDb API
+A movie searcher using React.js and the OMDb API
 
-<img src="SearchFlix-Preview.gif" alt="germancutraro-movie-app" />
 
 ## Instalation
 
@@ -22,7 +21,8 @@ npm start
 
 ## Author
 
-**germancutraro**
+**atikaanis169**
+**thiscodehadbeenmodifiedfromgermancutraro**
 
 ## Why
 
