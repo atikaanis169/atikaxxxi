@@ -21,7 +21,7 @@ npm start
 
 ## Author
 
-**atikaanis169**
+**atikaanis169, **
 **kode ini sudah dimodifikasi dari germancutraro**
 
 ## Why
