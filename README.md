@@ -22,7 +22,7 @@ npm start
 ## Author
 
 **atikaanis169**
-**thiscodehadbeenmodifiedfromgermancutraro**
+**kode ini sudah dimodifikasi dari germancutraro**
 
 ## Why
 
